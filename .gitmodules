@@ -1,0 +1,3 @@
+[submodule "Plugins/AeonixNavigation"]
+	path = Plugins/AeonixNavigation
+	url = https://github.com/midgen/AeonixNavigation.git
