@@ -9,6 +9,8 @@ public class AeonixDemoTarget : TargetRules
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.Latest;
+		
+		bUseUnityBuild = false;
 
 		ExtraModuleNames.AddRange( new string[] { "AeonixDemo" } );
 	}

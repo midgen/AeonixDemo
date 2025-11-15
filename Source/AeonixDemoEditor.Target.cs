@@ -9,6 +9,7 @@ public class AeonixDemoEditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.Latest;
+		bUseUnityBuild = false;
 
 		ExtraModuleNames.AddRange( new string[] { "AeonixDemo" } );
 	}
