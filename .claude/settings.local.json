@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:shields.io)",
+      "Bash(mv:*)",
+      "WebSearch",
+      "WebFetch(domain:forums.unrealengine.com)",
+      "Bash(git diff:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
